@@ -44,5 +44,13 @@
     "style-loader": "^0.13.1",
     "webpack": "^1.12.14",
     "webpack-dev-server": "^1.14.1"
+  },
+  "dependencies": {
+    "react-router": "^3.0.2",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "express-cors": "0.0.3",
+    "express-logger": "0.0.3",
+    "locus": "^1.2.0"
   }
 }
